@@ -1,6 +1,6 @@
 {
   "name": "owl",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/webmasterkai/owl/issues"
   },
-  "homepage": "https://github.com/webmasterkai/owl",
+  "homepage": "http://owl.kaicurry.com",
   "dependencies": {
     "lodash": "3.x",
     "react": "0.13.x",
@@ -28,6 +28,8 @@
     "ampersand-collection": "1.x"
   },
   "devDependencies": {
-    "cape-gulp": "git+https://github.com/cape-io/cape-gulp.git"
+    "cape-gulp": "git+https://github.com/cape-io/cape-gulp.git",
+    "gulp": "3.x",
+    "coffee-script": "^1.9.1"
   }
 }
