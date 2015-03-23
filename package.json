@@ -25,7 +25,8 @@
     "superagent": "0.x",
     "moment": "2.x",
     "ampersand-state": "4.x",
-    "ampersand-collection": "1.x"
+    "ampersand-collection": "1.x",
+    "react-image-gallery": "^0.3.4"
   },
   "devDependencies": {
     "cape-gulp": "git+https://github.com/cape-io/cape-gulp.git",
